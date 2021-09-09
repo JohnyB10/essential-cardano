@@ -111,6 +111,7 @@ Here is an outline of the categories:
 - [EMURGO Traceability](https://emurgo.io/our-products#emurgo-traceability)
 
 ## DEXs & IDO ##
+- [GADA](https://gada.finance/)
 - [Occam](https://occam.fi/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
 - [Minswap](https://minswap.org/)
@@ -119,6 +120,7 @@ Here is an outline of the categories:
 - [Adax](https://adax.pro/)
 - [ErgoDex](https://ergodex.io/)
 - [Mirqur](https://mirqur.io/)
+
 
 ### Deployments ###
 - [New Balance](https://www.newbalance.com/)
